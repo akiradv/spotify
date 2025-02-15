@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { title: "Okay", artist: "Chase Atlantic", src: "musics/Okay.wav" },
         { title: "Drugs & Money", artist: "Chase Atlantic", src: "Drugs & Money.wav" },
         { title: "RICOCHET", artist: "Chase Atlantic", src: "musics/RICOCHET.wav" },
-        { title: "", artist: "Chase Atlantic", src: "musics/I'm Not Okay.wav" },
+        { title: "Delilah", artist: "Chase Atlantic", src: "musics/Delilah —  GOON DES GARCONS_ feat. Chase Atlantic UNRELEASED.wav" },
         { title: "", artist: "Chase Atlantic", src: "musics/I'm Not Okay.wav" },
         { title: "", artist: "Chase Atlantic", src: "musics/I'm Not Okay.wav" },
         { title: "", artist: "Chase Atlantic", src: "musics/I'm Not Okay.wav" },
